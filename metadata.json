@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SelfTrack Pro",
+  "description": "A comprehensive personal dashboard for university students to track academic progress, achievements, experiences, and self-growth metrics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
